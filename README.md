@@ -1,3 +1,4 @@
+This project is a chatbot web application where users can interact with a chatbot to receive responses to their queries. The application utilizes React for the frontend and a Flask backend to handle the chatbot logic and responses. The chatbot responses are supposed to stream in real-time as the user interacts with the application. The technology stack includes React, Flask, Axios, and EventSource for handling real-time streaming.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
